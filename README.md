@@ -1,7 +1,7 @@
 # NOPE
 The source code of NOPE
 
-1. If you want to perform image compression, please execute the "main" file and set the save address yourself. Here, 'rel' indicates whether to use NOPE*.
+1. If you want to perform image compression, please execute the "main" file and set the save address yourself. Here, 'rel' indicates whether to use NOPE*. Citeseer can be used as a test.
 
 2. If you want to conduct LLM-based node classification, please execute the run.py file in the node_classification folder and set the storage address by yourself.
 
